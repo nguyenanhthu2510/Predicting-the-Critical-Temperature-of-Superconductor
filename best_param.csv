@@ -1,0 +1,2 @@
+max_depth,eta,subsample,colsample_bytree,min_child_weight,silent,objective,eval_metric
+16,0.02,0.5,0.5,1,1,reg:linear,rmse
